@@ -8,7 +8,7 @@ export const Board = styled.div`
   flex-direction: column;
   align-items: center;
   flex: 1;
-  height: 221px;
+  min-height: 221px;
 
   > header {
     padding: 8px;
